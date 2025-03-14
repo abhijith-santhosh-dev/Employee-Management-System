@@ -88,7 +88,7 @@ The application will be available at [http://127.0.0.1:8000](http://127.0.0.1:80
 ---
 
 ## Admin Credentials (Default)
-- **Email:** admin@example.com
+- **Email:** admin@gmail.com
 - **Password:** password
 
 _(You can update these credentials by modifying the `AdminUserSeeder.php` before running `php artisan db:seed`)_
